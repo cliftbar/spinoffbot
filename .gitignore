@@ -1,0 +1,6 @@
+!*.keep
+
+*.json
+*.idea
+*__pycache__
+*.pyc
